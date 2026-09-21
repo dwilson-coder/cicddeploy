@@ -1,6 +1,6 @@
 {
-  "name": "Shipshape CI/CD Field Guide",
-  "short_name": "Shipshape",
+  "name": "CICD Deploy CI/CD Field Guide",
+  "short_name": "CICD Deploy",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#f3f0ea",
