@@ -1,0 +1,10 @@
+{
+  "name": "Shipshape CI/CD Field Guide",
+  "short_name": "Shipshape",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f3f0ea",
+  "theme_color": "#171717",
+  "description": "A practical, searchable guide to CI/CD deployment.",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
