@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;600;700&display=swap');
 
 :root { --ink: #171717; --paper: #f3f0ea; --cream: #fbfaf7; --line: #d9d4cb; --muted: #77736b; --acid: #d8f36a; --orange: #f17c4b; }
-.scroll-top { position: fixed; right: 24px; bottom: 24px; z-index: 4; width: 48px; height: 48px; border: 1px solid var(--ink); background: var(--acid); color: var(--ink); cursor: pointer; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1px; font-size: 20px; opacity: 0; pointer-events: none; transform: translateY(12px); transition: opacity .2s, transform .2s, background .2s; }
+.scroll-top { position: fixed; right: 24px; bottom: 84px; z-index: 4; width: 48px; height: 48px; border: 1px solid var(--ink); background: var(--acid); color: var(--ink); cursor: pointer; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1px; font-size: 20px; opacity: 0; pointer-events: none; transform: translateY(12px); transition: opacity .2s, transform .2s, background .2s; }
 .scroll-top.visible { opacity: 1; pointer-events: auto; transform: translateY(0); }
 .scroll-top:hover { background: var(--orange); }
 .scroll-top span { font: 8px 'DM Mono'; letter-spacing: .5px; }
